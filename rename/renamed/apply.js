@@ -1,0 +1,1 @@
+"use strict";var price=5,arr=["apple","banana","pear"],apple=arr.filter(function(a){return a!=apple});console.log(apple);
